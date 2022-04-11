@@ -20,8 +20,8 @@ But if we have commands that need to run serially then the CPU is the better way
 ## Dependency
 
 - python 3.8.10
-- numba
-- numpy
+- numba 0.46.0
+- numpy 1.21.5
 
 ## Getting Started
 
