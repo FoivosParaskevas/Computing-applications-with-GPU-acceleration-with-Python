@@ -20,7 +20,7 @@ But if we have commands that need to run serially then the CPU is the better way
 ## Dependency
 
 - python 3.8.10
-- numba 0.46.0
+- numba 0.46.0 (follow this link: https://numba.pydata.org/numba-doc/dev/user/installing.html?highlight=download%20cuda)
 - numpy 1.21.5
 
 ## Getting Started
